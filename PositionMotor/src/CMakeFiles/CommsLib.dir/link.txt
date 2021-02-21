@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCommsLib.a CMakeFiles/CommsLib.dir/Task.cpp.o CMakeFiles/CommsLib.dir/Comms.cpp.o
+/usr/bin/ranlib libCommsLib.a

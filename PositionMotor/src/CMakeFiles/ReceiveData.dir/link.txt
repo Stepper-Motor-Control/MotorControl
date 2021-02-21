@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/ReceiveData.dir/ReceiveDataServer.cpp.o CMakeFiles/ReceiveData.dir/PositionServoMotor.cpp.o -o ReceiveData  -lpthread libCommsLib.a -lwiringPi 
