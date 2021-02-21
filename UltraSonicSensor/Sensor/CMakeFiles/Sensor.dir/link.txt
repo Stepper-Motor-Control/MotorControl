@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSensor.a CMakeFiles/Sensor.dir/Sensor.cpp.o CMakeFiles/Sensor.dir/LcdDisplay.cpp.o CMakeFiles/Sensor.dir/StepperMotor.cpp.o
+/usr/bin/ranlib libSensor.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/SensorServer.dir/SensorServer.cpp.o CMakeFiles/SensorServer.dir/UltraSonicSensorMain.cpp.o CMakeFiles/SensorServer.dir/SensorCommsServer.cpp.o -o SensorServer  Sensor/libSensor.a -lpthread -lwiringPi -lwiringPiDev -lADCDevice Comms/libCommunication.a -lrt 

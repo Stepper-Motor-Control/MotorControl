@@ -1,0 +1,9 @@
+/home/pi/engg/MotorControl/UltraSonicSensor/CMakeFiles/rebuild_cache.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/CMakeFiles/SensorServer.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/CMakeFiles/edit_cache.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Sensor/CMakeFiles/rebuild_cache.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Sensor/CMakeFiles/Sensor.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Sensor/CMakeFiles/edit_cache.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Comms/CMakeFiles/rebuild_cache.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Comms/CMakeFiles/Communication.dir
+/home/pi/engg/MotorControl/UltraSonicSensor/Comms/CMakeFiles/edit_cache.dir
